@@ -1,0 +1,11 @@
+com\servlet\ServletAuto.class
+Operation.class
+com\dto\Contrat.class
+models\PieceEntity.class
+com\dto\Client.class
+com\dto\Piece.class
+models\ContratEntity.class
+models\ClientEntity.class
+com\dto\Prix_marge.class
+com\dao\ClientDao.class
+models\PrixMargeEntity.class
